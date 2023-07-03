@@ -1,4 +1,4 @@
-## Reporting Security Issues
+d## Reporting Security Issues
 
 We take all security reports seriously.
 When we receive such reports,
